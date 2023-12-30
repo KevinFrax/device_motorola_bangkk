@@ -405,4 +405,4 @@ vendor/etc/sensors/sns_reg_config
 
 # Thermal engine
 vendor/etc/thermal-engine.conf
-vendor/etc/thermal-engine-corfur.conf
+vendor/etc/thermal-engine-bangkk.conf
